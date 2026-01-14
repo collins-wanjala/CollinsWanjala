@@ -1,13 +1,13 @@
 <img align="right" width="30%" src="Assets/Programming.gif">
 
-# Hi👋, I'm [Ranit Manik](https://me.5dev.in)
+# Hi👋, I'm [Collins Wanjala](https://github.com/collins-wanjala)
 
 <h3>A Tech Enthusiast from Kenya</h3>
 
-- 👨‍💼 Cloud Engineer **(Full time)** at [**Busiman**](https://github.com/Busiman-official).  
+- 👨‍💼 Cloud Engineer **(Full time)** at [**Collins Wanjala**](https://github.com/collins-wanjala).  
 - 🏫  Bachelor's Degree in Information Technology at [**Maseno University**](https://cemkolaghat.in/).  
-- 📚 Proficient in **Full Stack Development**.  
-- 🌐 Visit my [**Portfolio**](https://me.5dev.in) to explore projects and achievements.
+- 📚 Proficient in **Network Engineering**.  
+- 🌐 Visit my [**Portfolio**](https://github.com/collins-wanjala) to explore projects and achievements.
 - 📧 Reach me via [**Email**](mailto:nandokhacollins0@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/collins-wanjala/).  
 - 📍 Based in **Parklands, Nairobi, Kenya**.  
 
