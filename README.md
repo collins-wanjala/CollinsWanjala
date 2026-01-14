@@ -2,21 +2,21 @@
 
 # Hi👋, I'm [Ranit Manik](https://me.5dev.in)
 
-<h3>A Tech Enthusiast from India</h3>
+<h3>A Tech Enthusiast from Kenya</h3>
 
-- 👨‍💼 Frontend Developer **(Full time)** at [**Busiman**](https://github.com/Busiman-official).  
-- 🏫 Pursuing a Bachelor's Degree in Computer Science at [**CEMK**](https://cemkolaghat.in/).  
+- 👨‍💼 Cloud Engineer **(Full time)** at [**Busiman**](https://github.com/Busiman-official).  
+- 🏫  Bachelor's Degree in Information Technology at [**Maseno University**](https://cemkolaghat.in/).  
 - 📚 Proficient in **Full Stack Development**.  
 - 🌐 Visit my [**Portfolio**](https://me.5dev.in) to explore projects and achievements.
-- 📧 Reach me via [**Email**](mailto:ranit.manik@icloud.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
-- 📍 Based in **Mecheda, West Bengal, India**.  
+- 📧 Reach me via [**Email**](mailto:nandokhacollins0@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/collins-wanjala/).  
+- 📍 Based in **Parklands, Nairobi, Kenya**.  
 
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div width="100%" align="center">
- <a href="https://github.com/RanitManik">
+ <a href="https://github.com/collins-wanjala">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
