@@ -51,23 +51,17 @@
   </a>
 </div>
 
-<h2 align="center">📌 Pinned Repositories</h2>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div width="100%" align="center">
- <a href="https://github.com/RanitManik/foody">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=foody&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=foody&layout=compact&show_owner=true&description_lines_count=2" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=foody&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&no-bg=false&margin-w=4&row=1" />
+      <img width="804px" alt="GitHub Trophies" src="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&no-frame=true&hide_border=true&no-bg=false&margin-w=4&row=1" />
     </picture>
-  </a>
-  <a href="https://github.com/RanitManik/lucide-note">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&show_owner=true&description_lines_count=2" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
-    </picture>
-  </a>
+  <a/>
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
